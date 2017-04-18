@@ -1,0 +1,15 @@
+Problem Statement
+Due to the ever increasing demand on performance and cost-efficacy of structures, the need for numerical tools to optimize such structures in the design process has become very strong. The computational demand arising from optimization methods is quite heavy, and it is even more increasing since various stochastic uncertainties have to be taken into account in the design optimization process, because of this we came out with an aid for accessing the performance of stochastic optimization methods in structural modeling.
+Objectives
+1. Main Objective
+To access the performance of stochastic optimization methods
+in structural modeling.
+2.Other Objective
+To collect data from the various
+sources about stochastic optimization meth- ods in structural modeling. To
+study and analyze the current exam entry veri
+cation system and data col- lected with a clear aim of identifying weaknesses,
+strengths and requirements of the new system. To design and implement a pro-
+totype of access the performance of stochastic optimization methods in structural modeling.
+To test and validate the performance of stochastic optimization
+methods in structural modeling to ensure that it is error free .
